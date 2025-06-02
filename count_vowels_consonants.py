@@ -9,4 +9,4 @@ for i in a:
         else:
             consonant_count += 1
 print("vowels:", vowel_count, "consonants:", consonant_count)
-S
+
